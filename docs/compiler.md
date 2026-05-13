@@ -63,12 +63,12 @@ The Stencil Compiler is the core engine that transforms TypeScript/JSX component
    - [Common Build Errors](#common-build-errors)
    - [Performance Profiling](#performance-profiling)
 
-11. [Development Guide](#development-guide)
+10. [Development Guide](#development-guide)
     - [Testing Compiler Changes](#testing-compiler-changes)
     - [Build Scripts](#build-scripts)
     - [Contributing](#contributing)
 
-12. [Future Improvements](#future-improvements)
+11. [Future Improvements](#future-improvements)
 
 ---
 
